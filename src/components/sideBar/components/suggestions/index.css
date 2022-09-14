@@ -1,0 +1,24 @@
+.suggestions {
+    margin-bottom: 33px;
+}
+
+.suggestions header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 17px;
+}
+
+.suggestions header span {
+    color: var(--gray4);
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.suggestions header a {
+    color: var(--gray5);
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+    text-decoration: none;
+}

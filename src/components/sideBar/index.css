@@ -1,0 +1,42 @@
+aside {
+  padding-top: 23px;
+  width: 100%;
+  margin-left: 29px;
+  position: sticky;
+  top: 65px;
+  height: 455px;
+}
+
+footer {
+  width: 300px;
+}
+
+footer nav {
+  margin-bottom: 18px;
+}
+
+footer nav ul {
+  width: 100%;
+
+  list-style: none;
+}
+
+footer nav ul li {
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 13px;
+  display: inline-block;
+  color: var(--gray2);
+  margin-left: 2px;
+}
+
+footer nav ul li a {
+  text-decoration: none;
+}
+
+footer h4 {
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 13px;
+  color: var(--gray2);
+}

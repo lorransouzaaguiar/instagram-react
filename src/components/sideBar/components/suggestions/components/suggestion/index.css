@@ -1,0 +1,39 @@
+.profile {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+aside .profile-info {
+    display: flex;
+    height: 32px;
+}
+
+aside .profile-info img {
+    width: 32px;
+    height: 32px;
+    margin-right: 11px;
+}
+
+aside .profile-info h3 {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    color: var(--gray5);
+}
+
+aside .profile-info h4 {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: var(--gray4);
+}
+
+aside .profile a {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    color: var(--blue1);
+}

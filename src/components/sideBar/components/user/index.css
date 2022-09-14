@@ -1,0 +1,32 @@
+.side-bar-header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 24px;
+}
+
+.side-bar header img {
+    width: 56px;
+    height: 56px;
+    margin-right: 17px;
+}
+
+.profile-wrapper {
+    width: 88px;
+    display: flex;
+    flex-direction: column;
+}
+
+.profile-wrapper span:first-of-type {
+    color: var(--gray5);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+}
+
+.profile-wrapper span:last-child {
+    color: var(--gray4);
+    font-size: 14px;
+    font-weight: 300;
+
+}
