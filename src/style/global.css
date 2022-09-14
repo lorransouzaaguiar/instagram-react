@@ -32,4 +32,5 @@ body {
   width: 100vw;
   background-color: var(--white2);
   font-family: "Roboto";
+  overflow-x: hidden;
 }
