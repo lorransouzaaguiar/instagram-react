@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --black1: black;
+  --white1: #ffffff;
+  --white2: #fafafa;
+  --gray1: #dbdbdb;
+  --gray2: #c7c7c7;
+  --gray3: #979797;
+  --gray4: #8e8e8e;
+  --gray5: #262626;
+  --blue1: #139ef2;
+
+  --container-size: 935px;
+  --main-size: 614px;
+}
+
+a:visited {
+  color: inherit;
+}
+
+.icon {
+  width: 22px;
+  height: 22px;
+}
+
+body {
+  width: 100vw;
+  background-color: var(--white2);
+  font-family: "Roboto";
+}

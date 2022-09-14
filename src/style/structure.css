@@ -1,0 +1,22 @@
+.container {
+  max-width: var(--container-size);
+  background-color: var(--white2);
+  margin: 88px auto 0 auto;
+}
+
+.sticky {
+  display: flex;
+  height: 100%;
+}
+
+main {
+  width: var(--main-size);
+}
+
+aside {
+  width: 293px;
+}
+
+.footer-bar-mobile {
+  display: none;
+}
